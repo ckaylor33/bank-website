@@ -1,2 +1,18 @@
 # bank-website
+
 Bank marketing website
+
+- Project
+  CK Banking is a project I created after learning basic DOM manipulation. This website was the perfect way to improve my understanding and use more advanced techniques to create a responsive, modern looking website.
+
+- Project Purpose and Goal
+  As the main purpose of this project was to improve my comprehension of DOM manipulation, I spent a good amount of time making sure I was writing clean, reusable code that effectively...FINISH. Besides this, I wanted to make sure it would be a website I would enjoy visiting, meaning it had to be visually pleasing.
+
+- Web stack and Explanation
+  FINISH
+
+- Problems and Thought Process
+  FINISH
+
+- Future Improvements
+  FINISH
