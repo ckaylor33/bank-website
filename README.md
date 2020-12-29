@@ -12,6 +12,7 @@ Bank marketing website
   FINISH
 
 - Problems and Thought Process
+  Making sure to implement page nav slow scrolling with event delegation for efficiency, using e.target on a parent element; rather than attaching the same event handler to multiple elements.
   FINISH
 
 - Future Improvements
